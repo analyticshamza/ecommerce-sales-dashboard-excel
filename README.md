@@ -46,6 +46,22 @@ This project focuses on transforming raw sales data into a comprehensive, user-f
 ---
 
 ## 📸 Preview
+
+### Dashboard – Fashion Category
+
 ![Image](https://github.com/user-attachments/assets/97643e34-70e6-4550-a162-8c21171fbbff)
 
+---
+
+### Working Sheet – Filtered Summary Tables
+
 ![Image](https://github.com/user-attachments/assets/fb1b4722-5ff5-4db9-9ee4-880e9a344aea)
+
+---
+Let’s connect and grow as data professionals!
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
