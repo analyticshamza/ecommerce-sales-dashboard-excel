@@ -38,7 +38,7 @@ This project focuses on transforming raw sales data into a comprehensive, user-f
 
 ## 🚀 How to Use
 
-1. Download the `demo.xlsm` file from the repository
+1. Download the `E-commerce Sales Dashboard.xlsm` file from the repository
 2. Open in Microsoft Excel and **enable macros**
 3. Use the **product category combo box** to filter the entire dashboard
 4. Explore sales trends, profit margins, and regional performance in one view
@@ -46,3 +46,6 @@ This project focuses on transforming raw sales data into a comprehensive, user-f
 ---
 
 ## 📸 Preview
+![Image](https://github.com/user-attachments/assets/97643e34-70e6-4550-a162-8c21171fbbff)
+
+![Image](https://github.com/user-attachments/assets/fb1b4722-5ff5-4db9-9ee4-880e9a344aea)
